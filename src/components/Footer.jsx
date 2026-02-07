@@ -50,7 +50,7 @@ const Footer = () => {
           transition={{ duration: 0.6, delay: 0.6 }}
         >
           <p className="text-xs opacity-75">
-            © 2026 - Dibuat dengan penuh kasih sayang
+            © 2026 - Wahyu & Violetta. All rights reserved.
           </p>
         </motion.div>
       </div>
